@@ -23,9 +23,9 @@ Criar uma aplicação simples de Gestão de Tarefas (To-Do List), com funcionali
     * Login e cadastro de usuários.
     
     * Cada usuário só pode visualizar suas próprias tarefas.
-    
-    🚨 Dica: [Para as permissões use Spatie (opcional)](https://spatie.be/docs/laravel-permission/v6/introduction)
 ```
+🚨 Dica: [Para as permissões use Spatie (opcional)] (https://spatie.be/docs/laravel-permission/v6/introduction)
+
 ```bash
   2. CRUD de Tarefas
 
@@ -55,9 +55,9 @@ Criar uma aplicação simples de Gestão de Tarefas (To-Do List), com funcionali
     * Layout base com menu fixo (navbar) contendo nome do usuário logado e opção de logout
     
     * Responsivo (pode testar com dev tools do navegador)
-    
-    🚨 Dica: [Para o layout use AdminLte3 (opcional)](https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Installation)
 ```
+🚨 Dica: [Para o layout use AdminLte3 (opcional)](https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Installation)
+
 ```bash
   4. Extra (opcional, vale ponto bônus)
 
@@ -67,6 +67,7 @@ Criar uma aplicação simples de Gestão de Tarefas (To-Do List), com funcionali
     
     * Testes automatizados (Feature ou Unit Test com PHPUnit)
 ```
+
 📁 Organização do Projeto
 
     * Utilize boas práticas de estruturação de código (controllers, requests, models, etc.)
