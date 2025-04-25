@@ -24,7 +24,7 @@ Criar uma aplicação simples de Gestão de Tarefas (To-Do List), com funcionali
     
     * Cada usuário só pode visualizar suas próprias tarefas.
 ```
-🚨 Dica: [Para as permissões use Spatie (opcional)] (https://spatie.be/docs/laravel-permission/v6/introduction)
+🚨 Dica: [Para as permissões use Spatie (opcional)](https://spatie.be/docs/laravel-permission/v6/introduction)
 
 ```bash
   2. CRUD de Tarefas
